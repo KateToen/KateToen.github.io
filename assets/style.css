@@ -209,8 +209,8 @@ body{
     bottom: -10px;
     left: 17px;
 }
-/* githubアイコン */
-.sns-main-container .items-github {
+/* Twitchアイコン */
+.sns-main-container .items-twitch {
     width: 70px;
     height: 70px;
     background-color: #d069f2;
@@ -218,8 +218,8 @@ body{
     top: 115px;
     right: 15px;
 }
-/* githubアイコン影 */
-.sns-main-container .items-github::before {
+/* Twitchアイコン影 */
+.sns-main-container .items-twitch::before {
     content: "";
     width: 30px;
     height: 10px;
